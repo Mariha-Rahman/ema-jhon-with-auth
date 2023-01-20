@@ -1,0 +1,34 @@
+.form-container {
+    width: 500px;
+    height: 600px;
+    margin: 30px auto;
+    border-radius: 8px;
+}
+
+.form-title {
+    font-weight: 400;
+    text-align: center;
+}
+
+.form-control {
+    margin: 49px;
+}
+
+.form-control label {
+    display: block;
+}
+
+.form-control input {
+    width: 415px;
+    height: 55px;
+    border: 1px solid rgb(123, 123, 128);
+
+}
+
+.btn-submit {
+    width: 415px;
+    height: 55px;
+    background-color: green;
+    color: white;
+    margin: 0px 49px;
+}
